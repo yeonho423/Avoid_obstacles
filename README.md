@@ -5,6 +5,6 @@
 cmd 관리자모드
 
 cd "C:\Users\423pr\Downloads"
-python -m PyInstaller -F -w 요리_시물레이터.py
+python -m PyInstaller -F -w 장애물피하기.py
 
 욜시뮬 팡ㄹ 내의 dist 폴더에서 실행파일 가져오기
